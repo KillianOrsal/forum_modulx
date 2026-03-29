@@ -8,23 +8,22 @@
 
 **Clone du projet :**
 
-git clone 
+```git clone https://github.com/KillianOrsal/forum_modulx.git ```
 
 ## 1. INITIALISATION (après clone du projet)
 
 Ouvrir un terminal à la racine du projet, puis :
 
-  a) Installer les dépendances Flutter :
-
+  a) Installer les dépendances Flutter : 
+  
      flutter pub get
-
+     
   b) Installer les dépendances du serveur :
-
+  
      cd server
      dart pub get
      cd ..
-
-
+     
 ## 2. LANCEMENT
 
 Il faut lancer 2 terminaux en parallèle :
@@ -33,7 +32,7 @@ Il faut lancer 2 terminaux en parallèle :
 
      cd server
      dart run bin/server.dart
-
+     
      → Le serveur démarre sur http://localhost:8081
      → Gardez ce terminal ouvert
 
@@ -61,5 +60,5 @@ Il faut lancer 2 terminaux en parallèle :
 
 ## 4. ARRÊT
 
-- Dans chaque terminal, appuyez sur Ctrl+C pour stopper
+- Dans chaque terminal, appuyez sur ```Ctrl+C``` pour stopper
   le serveur et l'application Flutter.
