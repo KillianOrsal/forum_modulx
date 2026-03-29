@@ -1,24 +1,16 @@
-============================================
+# ModulX - Guide d'installation et lancement
 
-ModulX - Guide d'installation et lancement
+**Prérequis :**
 
-============================================
-
-Prérequis :
------------
 - Flutter SDK installé (https://docs.flutter.dev/get-started/install)
 - Dart SDK (inclus avec Flutter)
 - Google Chrome installé
 
-Clone du projet :
+**Clone du projet :**
 
 git clone 
 
-
-============================================
-  1. INITIALISATION (après clone du projet)
-
-============================================
+## 1. INITIALISATION (après clone du projet)
 
 Ouvrir un terminal à la racine du projet, puis :
 
@@ -33,11 +25,7 @@ Ouvrir un terminal à la racine du projet, puis :
      cd ..
 
 
-============================================
-
-  2. LANCEMENT
-
-============================================
+## 2. LANCEMENT
 
 Il faut lancer 2 terminaux en parallèle :
 
@@ -58,24 +46,20 @@ Il faut lancer 2 terminaux en parallèle :
      → Gardez ce terminal ouvert
 
 
-============================================
-
-  3. UTILISATION
-
-============================================
+## 3. UTILISATION
 
 - Le site est accessible dans Chrome une fois lancé
 - Créez un compte via "Se connecter" > "S'inscrire"
 - Une fois connecté, vous pouvez :
+  
     • Ajouter des modèles 3D
+  
     • Commenter les modèles
+  
     • Voir votre profil et gérer vos modèles
 
-============================================
 
-  4. ARRÊT
-
-============================================
+## 4. ARRÊT
 
 - Dans chaque terminal, appuyez sur Ctrl+C pour stopper
   le serveur et l'application Flutter.
