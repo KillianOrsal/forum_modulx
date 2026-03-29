@@ -1,4 +1,5 @@
 ============================================
+
 ModulX - Guide d'installation et lancement
 
 ============================================
@@ -8,6 +9,10 @@ Prérequis :
 - Flutter SDK installé (https://docs.flutter.dev/get-started/install)
 - Dart SDK (inclus avec Flutter)
 - Google Chrome installé
+
+Clone du projet :
+
+git clone 
 
 
 ============================================
