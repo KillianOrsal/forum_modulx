@@ -11,6 +11,7 @@ Prérequis :
 
 ============================================
   1. INITIALISATION (après clone du projet)
+
 ============================================
 
 Ouvrir un terminal à la racine du projet, puis :
@@ -28,6 +29,7 @@ Ouvrir un terminal à la racine du projet, puis :
 
 ============================================
   2. LANCEMENT
+
 ============================================
 
 Il faut lancer 2 terminaux en parallèle :
@@ -51,6 +53,7 @@ Il faut lancer 2 terminaux en parallèle :
 
 ============================================
   3. UTILISATION
+
 ============================================
 
 - Le site est accessible dans Chrome une fois lancé
@@ -62,6 +65,7 @@ Il faut lancer 2 terminaux en parallèle :
 
 ============================================
   4. ARRÊT
+
 ============================================
 
 - Dans chaque terminal, appuyez sur Ctrl+C pour stopper
