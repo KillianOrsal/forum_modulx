@@ -1,5 +1,6 @@
 ============================================
-  ModulX - Guide d'installation et lancement
+ModulX - Guide d'installation et lancement
+
 ============================================
 
 Prérequis :
@@ -28,6 +29,7 @@ Ouvrir un terminal à la racine du projet, puis :
 
 
 ============================================
+
   2. LANCEMENT
 
 ============================================
@@ -52,6 +54,7 @@ Il faut lancer 2 terminaux en parallèle :
 
 
 ============================================
+
   3. UTILISATION
 
 ============================================
@@ -64,6 +67,7 @@ Il faut lancer 2 terminaux en parallèle :
     • Voir votre profil et gérer vos modèles
 
 ============================================
+
   4. ARRÊT
 
 ============================================
